@@ -97,7 +97,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://skill-teach-somnath-roy.vercel.app/"
+                href=""
                 target="_blank"
                 rel="noreferrer"
               >
